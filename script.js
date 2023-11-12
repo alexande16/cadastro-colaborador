@@ -9,7 +9,7 @@ const inputHorario = document.querySelector('#horario')
 const inputContrato = document.querySelector('#contrato')
 const area = document.querySelector('.area')
 
-/* Array */
+/* Array Criados */
 
 const cadastro = [
 
