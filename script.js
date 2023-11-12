@@ -1,5 +1,5 @@
 
-/* Variaveis */
+/* Variaveis criadas */
 
 const btnAlterar = document.querySelector('#switch')
 const inputNome = document.querySelector('#nome')
